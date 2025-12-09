@@ -1,6 +1,7 @@
 export const Moves: import('../../../sim/dex-moves').ModdedMoveDataTable = {
 	uturn: {
-		inhereit: true,
+		inherit: true,
 		basePower: 60
 	},
 	
+}
