@@ -26,6 +26,6 @@ export const Abilities: import('../../../sim/dex-abilities').ModdedAbilityDataTa
     shortDesc: "Placeholder text. Ping Eclipse or Ashryn if you see this",
     longDesc: "Placeholder text. Ping Eclipse or Ashryn if you see this",
   },
-},
+}
     
       
